@@ -1,11 +1,9 @@
 body{
     background-color: rgb(159, 162, 189);
-    width: 90vw;
-    height: 90vh;
   }
   .container {
-    width: 90vw;
-    height: 90vh;
+    width: 97vw;
+    height: 95vh;
     display: flex;
     justify-content: center;
     gap: 5vw;
